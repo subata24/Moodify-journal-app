@@ -1,3 +1,4 @@
+-r requirements.txt
 streamlit
 textblob
 pandas
