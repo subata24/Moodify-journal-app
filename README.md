@@ -19,3 +19,7 @@ Moodify is a Streamlit-powered app that lets users track their moods, write jour
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🚀 Live Demo:
+
+👉 [Try the App Here](https://moodify-journal-app-2y8ixdm6beptu2jkaqfdeb.streamlit.app/)
